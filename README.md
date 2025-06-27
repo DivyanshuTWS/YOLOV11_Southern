@@ -37,5 +37,6 @@ You can find the trained model weight files at the following locations:
 ## 🚀 Inference
 
 To perform inference on a folder of class images, use the provided `inference.py` script.  
+Note : provide folder path of class you wnat to infer.
 This script will automatically classify each image and print predictions.
 python inference.py 
